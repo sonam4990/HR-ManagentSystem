@@ -85,7 +85,6 @@ npm install
 npm run dev
 ```
 
-Frontend runs at `http://localhost:5173` and API at `http://localhost:5000`.
 
 ## Deployment Steps
 
